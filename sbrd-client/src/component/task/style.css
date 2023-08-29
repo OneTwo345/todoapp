@@ -1,0 +1,62 @@
+.highlighted-row {
+    background-color: red;
+  }
+ 
+
+  .statistic-label {
+    width: 200px;
+  }
+  
+  .statistic-value {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 4px;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .todo {
+    background-color: #fff;
+  }
+  
+  .in-progress {
+    background-color: #00cc00;
+  }
+  
+  .dismiss {
+    background-color: #ff0000;
+  }
+  
+  .done {
+    background-color: #ffff00;
+  }
+  
+  .skip {
+    background-color: #964b00;
+  }
+  
+  /* Task view */
+
+  .todo {
+    background-color: white;
+  }
+  
+  .in-progress {
+    background-color: green;
+  }
+  
+  .dismiss {
+    background-color: red;
+  }
+  
+  .done {
+    background-color: blue;
+  }
+  
+  .skip {
+    background-color: #d2b48c;
+  }
+  /*menu */
+  .navbar-nav .nav-link.active {
+    font-weight: bold;
+  }
