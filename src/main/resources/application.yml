@@ -1,0 +1,15 @@
+server:
+  port: 9192
+
+spring:
+  datasource:
+    username: root
+    password: Duyngan96
+    url: jdbc:mysql://localhost:3307/sbr_db
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      format_sql: true
+
